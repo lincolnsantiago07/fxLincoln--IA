@@ -48,7 +48,7 @@ O AG explora técnicas de evolução natural, como seleção, cruzamento (crosso
 1. **Clone o Repositório** (se aplicável) ou **baixe o script** diretamente.
 
    ```bash
-   git clone https://github.com/lincolnsantiago07/O-Problema-da-Mochila.git
+   git clone https://github.com/lincolnsantiago07/fxLincoln--IA.git
 
 
 ▶️ Como Executar
