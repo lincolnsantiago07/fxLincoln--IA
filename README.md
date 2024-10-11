@@ -131,8 +131,9 @@ Para ajustar qualquer configuração, simplesmente modifique os valores correspo
 Ao executar o algoritmo, você verá uma saída semelhante a esta no terminal:
 
 Geração 1: Melhor f(x) = 3.8455 para x = 1.7500
+
 Geração 2: Melhor f(x) = 2.5000 para x = -1.2000
-...
+
 Geração 100: Melhor f(x) = 2.6870 para x = -1.4142
 
 ### --- Resultado Final ---
