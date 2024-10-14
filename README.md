@@ -140,6 +140,7 @@ Geração 100: Melhor f(x) = 2.6870 para x = -1.4142
 
 Melhor f(x) = 2.6870 para x = -1.4142
 Cromossomo Binário: 0110110010100110
+
 Interpretação:
 
 Geração X: Indica a geração atual do algoritmo.
